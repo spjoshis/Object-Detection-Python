@@ -2,3 +2,4 @@ notebook
 opencv-python
 pyqt5
 lxml
+ipykernel

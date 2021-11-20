@@ -1,1 +1,7 @@
 src/labeling
+odp/*
+src/protoc
+src/workspace/*
+src/workspace/images
+src/models
+src/scripts
